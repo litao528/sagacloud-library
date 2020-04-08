@@ -35375,16 +35375,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:17px;
-  height:10px;
+  width:19px;
+  height:18px;
 }
 #u1010 {
   border-width:0px;
   position:absolute;
-  left:1575px;
-  top:1866px;
-  width:17px;
-  height:10px;
+  left:1790px;
+  top:1885px;
+  width:19px;
+  height:18px;
   display:flex;
 }
 #u1010 .text {
@@ -35395,36 +35395,6 @@
   width:100%;
 }
 #u1010_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1011_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:19px;
-  height:18px;
-}
-#u1011 {
-  border-width:0px;
-  position:absolute;
-  left:1790px;
-  top:1885px;
-  width:19px;
-  height:18px;
-  display:flex;
-}
-#u1011 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1011_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
