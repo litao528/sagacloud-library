@@ -107,6 +107,16 @@
 }
 ._图片_ {
 }
+.label {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:left;
+}
+.menu_item {
+}
 .el-button {
   font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:400;
@@ -123,6 +133,30 @@
   color:#FFFFFF;
   text-align:center;
 }
+.input-placeholder {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#C0C4CC;
+  text-align:left;
+}
+.inputed {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:left;
+}
+.input-textarea {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#C0C4CC;
+  text-align:left;
+}
 .marker {
   color:#FFFFFF;
 }
@@ -131,7 +165,7 @@
 }
 .box_12 {
 }
-.label {
+.label1 {
   font-size:14px;
   text-align:left;
 }
